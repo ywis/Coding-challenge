@@ -1,7 +1,16 @@
 Insight Data Engineering - Coding Challenge
 ===========================================================
 
-For this coding challenge, you will develop tools that could help analyze the community of Twitter users.  For simplicity, the features we will build are primitive, but you could easily build more complicated features on top of these.   
+For this coding challenge, you will develop tools that could help analyze the community of Twitter users.  For simplicity, the features we will build are primitive, but you could easily build more complicated features on top of these.  
+ 
+## Packages to be loaded
+1. networkx
+2. itertools
+3. datetime
+4. re
+
+## Relative paths
+In the python file, I set the paths to be '/Users/siqi/DataEngineering/coding-challenge/' change it to whatever absolute path is.
 
 ## Challenge Summary
 
